@@ -1,0 +1,16 @@
+.disabled {
+    text-decoration: line-through;
+}
+
+/* #header{
+    width: 25rem;
+    background-color: brown;
+} */
+
+/* .container {
+    height: 100%;
+} */
+
+.btn-group .btn.fas.fa-2x:hover {
+    color: Dodgerblue;
+}
